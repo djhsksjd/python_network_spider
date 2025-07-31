@@ -1,0 +1,17 @@
+# 忽略ama文件夹
+ama/
+
+# 忽略comp文件夹
+comp/
+
+# 忽略data文件夹
+data/
+
+# 忽略环境变量文件
+.env
+
+# 忽略estudent文件夹
+estudent/
+
+# 忽略gitignore文件
+.gitignore
